@@ -2,7 +2,7 @@
 title: Configuración
 ---
 
-Esta lección supone que tienes el software R y RStudio instalado en tu computadora.
+Esta lección supone que tienes el software R y RStudio instalado en tu computadora. O en su defecto es posible correrlo en [PositCloud](https://posit.cloud/), que correra R en la nube.
 
 R se puede descargar [aquí](https://cran.r-project.org/mirrors.html).
 
