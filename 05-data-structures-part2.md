@@ -657,12 +657,12 @@ gapminder[sample(nrow(gapminder), 5), ]
 ```
 
 ```output
-             country year      pop continent lifeExp  gdpPercap
-1457       Swaziland 1972   480105    Africa  49.552  3364.8366
-101       Bangladesh 1972 70759295      Asia  45.252   630.2336
-670  Hong Kong China 1997  6495918      Asia  80.000 28377.6322
-1167        Pakistan 1962 53100671      Asia  47.670   803.3427
-1317    Saudi Arabia 1992 16945857      Asia  68.768 24841.6178
+            country year       pop continent lifeExp  gdpPercap
+1615  United States 1982 232187835  Americas  74.650 25009.5591
+1603 United Kingdom 1982  56339704    Europe  74.040 18232.4245
+1073          Nepal 1972  12412593      Asia  43.971   674.7881
+1648        Vietnam 1967  39463910      Asia  47.838   637.1233
+922      Madagascar 1997  14165114    Africa  54.978   986.2959
 ```
 
 :::::::::::::::::::::::::
